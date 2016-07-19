@@ -1,11 +1,9 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 14
-VisualStudioVersion = 14.0.25420.1
+VisualStudioVersion = 14.0.25123.0
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QuizDLList", "QuizDLList\QuizDLList.csproj", "{AFBF1994-FCF4-4359-839F-1339AA1B7897}"
-EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{5C1EFB0B-4FD2-4C33-9097-8DEA41608710}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QuizDLListTest", "QuizDLListTest\QuizDLListTest.csproj", "{AFBC9E67-EE69-4F27-A41C-49434D56B57A}"
 EndProject
